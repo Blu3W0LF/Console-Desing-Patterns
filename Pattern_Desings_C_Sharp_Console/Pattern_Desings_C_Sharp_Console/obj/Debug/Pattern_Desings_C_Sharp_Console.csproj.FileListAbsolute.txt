@@ -1,0 +1,7 @@
+C:\Users\Root\source\repos\Pattern_Desings_C_Sharp_Console\Pattern_Desings_C_Sharp_Console\bin\Debug\Pattern_Desings_C_Sharp_Console.exe.config
+C:\Users\Root\source\repos\Pattern_Desings_C_Sharp_Console\Pattern_Desings_C_Sharp_Console\bin\Debug\Pattern_Desings_C_Sharp_Console.exe
+C:\Users\Root\source\repos\Pattern_Desings_C_Sharp_Console\Pattern_Desings_C_Sharp_Console\bin\Debug\Pattern_Desings_C_Sharp_Console.pdb
+C:\Users\Root\source\repos\Pattern_Desings_C_Sharp_Console\Pattern_Desings_C_Sharp_Console\obj\Debug\Pattern_Desings_C_Sharp_Console.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\Pattern_Desings_C_Sharp_Console\Pattern_Desings_C_Sharp_Console\obj\Debug\Pattern_Desings_C_Sharp_Console.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\Pattern_Desings_C_Sharp_Console\Pattern_Desings_C_Sharp_Console\obj\Debug\Pattern_Desings_C_Sharp_Console.exe
+C:\Users\Root\source\repos\Pattern_Desings_C_Sharp_Console\Pattern_Desings_C_Sharp_Console\obj\Debug\Pattern_Desings_C_Sharp_Console.pdb
