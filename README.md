@@ -1,5 +1,5 @@
 # C-Sharp-Console-Desing-Patterns
-C# Console Patterns Desing with Console.SetCursorPosition()
+C# Console Desing Patterns with Console.SetCursorPosition()
 
 ![alt text](https://github.com/Blu3W0LF/C-Console-Patterns-Desing/blob/master/1.PNG)
 ![alt text](https://github.com/Blu3W0LF/C-Console-Patterns-Desing/blob/master/2.PNG)
